@@ -1,0 +1,2 @@
+%% encoding: UTF-8
+{modules,[test_ok,test_ok_service,test_ok_service_app,test_ok_service_sup]}.
